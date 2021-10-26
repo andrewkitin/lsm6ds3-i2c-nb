@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lsm6ds3_test.h": "c",
+        "stm32f40x.h": "c",
+        "core_cm4.h": "c"
+    }
+}
